@@ -1,0 +1,14 @@
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.exe
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.deps.json
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.runtimeconfig.json
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.dll
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\bin\Debug\netcoreapp3.1\Ejem3Prototype.pdb
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.dll
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.pdb
+C:\Users\ADM\source\repos\Ejem3Prototype\Ejem3Prototype\obj\Debug\netcoreapp3.1\Ejem3Prototype.genruntimeconfig.cache

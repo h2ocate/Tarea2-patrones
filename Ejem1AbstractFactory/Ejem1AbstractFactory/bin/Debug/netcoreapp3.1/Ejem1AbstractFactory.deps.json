@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejem1AbstractFactory/1.0.0": {
+        "runtime": {
+          "Ejem1AbstractFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejem1AbstractFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

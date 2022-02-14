@@ -1,0 +1,14 @@
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.exe
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.deps.json
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.runtimeconfig.json
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.runtimeconfig.dev.json
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.dll
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\bin\Debug\netcoreapp3.1\Ejem1AbstractFactory.pdb
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.csproj.AssemblyReference.cache
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.AssemblyInfo.cs
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.dll
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.pdb
+C:\Users\ADM\source\repos\Ejem1AbstractFactory\Ejem1AbstractFactory\obj\Debug\netcoreapp3.1\Ejem1AbstractFactory.genruntimeconfig.cache
